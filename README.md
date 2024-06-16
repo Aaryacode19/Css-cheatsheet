@@ -1,16 +1,14 @@
 # CSS-Cheatsheet
 
-```markdown
-## CSS Syntax
+## CSS Selectors
+
+- **Element Selector**: Selects all elements of a given type.
+  Syntax
 ```css
 selector {
     property: value;
 }
 ```
-
-## CSS Selectors
-
-- **Element Selector**: Selects all elements of a given type.
   ```css
   p {
       color: blue;
