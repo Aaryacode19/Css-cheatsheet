@@ -232,4 +232,4 @@ selector {
 ## CSS Reference Link
 
 For a comprehensive reference on CSS properties, selectors, and usage examples, visit the **[Mozilla Developer Network (MDN) CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)**.
-```
+
